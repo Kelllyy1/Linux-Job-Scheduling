@@ -1,4 +1,4 @@
-# Scheduling-A-Job-In-Linux
+# Linux Job Scheduling
 Bash Scripting
 
 Scheduling a job in Linux
