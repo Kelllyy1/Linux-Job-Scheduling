@@ -1,0 +1,1 @@
+These Python scripts were created to make the process of using AWS easier and more scalable. The AWS SiteWise API was used to easily produce multiple modules and assets.
